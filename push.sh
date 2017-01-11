@@ -1,5 +1,4 @@
 #! /bin/bash
-
 git add .
 echo "Please enter a comment"
 read yn
